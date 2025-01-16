@@ -23,3 +23,19 @@ Output: true
 
 Input: "(]"
 Output: false
+```
+## Topic
+- java: Karena project ini menggunakan bahasa Java.
+- data-structures: Untuk menunjukkan bahwa project ini terkait dengan struktur data.
+- stack: Fokus utama dari implementasi ini adalah struktur data Stack.
+- parentheses-validation: Menjelaskan bahwa salah satu use case dari stack adalah validasi tanda kurung.
+- algorithms: Karena project ini mencakup algoritma untuk validasi string.
+- coding-challenge: Menarik perhatian orang yang mencari solusi untuk tantangan coding serupa.
+- learning: Menunjukkan bahwa repository ini cocok untuk pembelajaran.
+- problem-solving: Menunjukkan bahwa project ini berorientasi pada penyelesaian masalah.
+- open-source: Jika kamu ingin membagikan kode secara bebas.
+  
+## Contact
+Feel free to reach out if you have questions or suggestions:
+- Email: masrc632@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ricardo-d-371662135
